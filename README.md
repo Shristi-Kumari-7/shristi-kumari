@@ -3,7 +3,7 @@
 <h3 align="center">B.Tech CSE Student | Web Developer | AI/ML Learner</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shristi%20Gupta&fontSize=45&fontColor=ffffff"/>
+  <img src="C:\Users\shris\OneDrive\사진\ChatGPT Image Jul 22, 2026, 05_07_09 PM.png type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Shristi%20Gupta&fontSize=45&fontColor=ffffff"/>
 </p>
 
 ---
