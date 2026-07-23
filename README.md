@@ -66,10 +66,13 @@ Exploring Machine Learning using Python and Jupyter Notebook.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shristi-Kumari-7&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shristi-Kumari-7&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shristi-Kumari-7&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shristi-Kumari-7&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🌟 Quote
