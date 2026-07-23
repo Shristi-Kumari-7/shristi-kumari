@@ -66,9 +66,9 @@ Exploring Machine Learning using Python and Jupyter Notebook.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrisgupta17-cmd&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shristi-Kumari-7&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrisgupta17-cmd&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shristi-Kumari-7&layout=compact)
 
 ---
 
@@ -80,6 +80,6 @@ Exploring Machine Learning using Python and Jupyter Notebook.
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/Shrisgupta17-cmd
+GitHub: https://github.com/Shristi-Kumari-7
 
 ⭐ Thanks for visiting my profile!
